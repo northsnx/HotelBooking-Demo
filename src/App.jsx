@@ -35,7 +35,7 @@ const roomsData = [
     max_children: 1,
     description: "ห้องเดี่ยวสำหรับพักผ่อนอย่างเป็นส่วนตัว เหมาะสำหรับผู้เข้าพัก 1-2 คน",
     amenities: ["Free WiFi", "Air Conditioning", "Smart TV"],
-    images: ["./public/Single.jpg"]
+    images: ["./Single.jpg"]
   },
   {
     id: 2,
@@ -46,7 +46,7 @@ const roomsData = [
     max_children: 2,
     description: "ห้องคู่รองรับได้สูงสุด 5 คน เหมาะสำหรับกลุ่มเพื่อนหรือครอบครัว ขนาดกว้างและสะดวกสบาย",
     amenities: ["Free WiFi", "Air Conditioning", "Private Bathroom", "Smart TV"],
-    images: ["./public/double.jpg"]
+    images: ["./double.jpg"]
   },
   {
     id: 3,
@@ -57,7 +57,7 @@ const roomsData = [
     max_children: 2,
     description: "ห้องสวีทสุดหรู รองรับคนได้มากถึง 8 คน พร้อมพื้นที่กว้างขวางและสิ่งอำนวยความสะดวกครบครัน",
     amenities: ["Free WiFi", "Air Conditioning", "Living Room", "2 Bathrooms", "Smart TV"],
-    images: ["./public/sweet.jpg"]
+    images: ["./sweet.jpg"]
   }
 ];
 
